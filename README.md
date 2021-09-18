@@ -1,2 +1,2 @@
-# projetoTS_JS
+# projeto-learning-nodeJS
  1st-aula-rocketseat-NODEJS
